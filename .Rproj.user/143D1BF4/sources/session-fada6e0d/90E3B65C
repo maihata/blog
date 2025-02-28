@@ -3,9 +3,9 @@
     "path": "~/Desktop/myblog/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1021442601",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1740783157438.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -18,14 +18,14 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "120:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1740783155,
+    "lastKnownWriteTime": 1740783865,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1740783365826,
+    "last_content_update": 1740783865145,
     "read_only": false,
     "read_only_alternatives": []
 }
